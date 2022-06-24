@@ -4,8 +4,10 @@ body {
 }
 .App {
   width:100%;
+  max-height:100vh ;
   max-width: 400px;
   margin: auto;
+  padding:5px;
 }
 .random-button {
   position:relative;
@@ -69,7 +71,7 @@ body {
   color: #000000;  
 }
 .comic {
-  height: 90vh;
+  height: 85vh;
 }
 .comic-image {
   width: auto;
